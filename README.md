@@ -73,7 +73,7 @@ a+b*d
 a=b+d*c
 ```
 # OUTPUT
-<img width="1650" height="958" alt="image" src="https://github.com/user-attachments/assets/e78c21c1-e822-4d91-af4d-ab272391dd4a" />
+<img width="1367" height="847" alt="image" src="https://github.com/user-attachments/assets/ca280576-4484-480c-a7e8-e87429df19c7" />
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
